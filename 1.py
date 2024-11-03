@@ -3,6 +3,8 @@ import pydicom
 import numpy as np
 from PIL import Image
 
+#by ai just a test
+
 st.title('DICOM文件查看器')
 
 # 创建一个文件上传器，让用户上传DICOM文件
